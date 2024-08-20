@@ -8,4 +8,5 @@ I used a standard dark mode styling.
 This project helped me to better understand how to use API in javascript along side HTML
 
 
-![image](https://github.com/user-attachments/assets/5d3d74e6-3d45-42aa-8d1a-68823dd607b3)
+![image](https://github.com/user-attachments/assets/feecd63f-703b-4804-adbb-211d82e15ba4)
+
