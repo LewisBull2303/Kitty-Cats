@@ -1,0 +1,106 @@
+:root{
+    --color-dark: #070a13;
+    --color-light: #f1f5f9;
+    --color-slate400: #94a3b8;
+    --color-slate600: #475569;
+    --color-slate800: #1e293b;
+    --color-rose: #e11d48;
+    --color-indigo: #4f46e5; 
+}
+
+*{
+    margin: 0;
+    line-height: calc(1em + 0.5rem);
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+body{
+    font-family: 'Satoshi', sans-serif;
+    background-color: var(--color-dark);
+    color: var(--color-light);
+    overflow: hidden;
+}
+
+button{
+    display: inline-block;
+    padding: 0;
+    border: none;
+    background: none;
+    cursor: pointer;
+    color: inherit;
+}
+
+p{
+    font-size: larger;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+a{
+    color: var(--color-rose);
+}
+
+strong{
+    color: #fff;
+}
+
+h1{
+    margin-bottom: 1.5rem;
+    font-size: 72px;
+    color: var(--color-rose);
+}
+
+img,
+picture,
+video,
+canvas,
+svg{
+    display: block;
+    max-width: 100%;
+    user-select: none;
+    height: 500px;
+    border: 1px solid var(--color-rose);
+    border-radius: 6px;
+    box-shadow: 0 10px 20px rgba(225, 29, 72, 0.5), 0 6px 6px rgba(225, 29, 72, 0.5), 0 0 100px -10px var(--color-rose);;
+}
+
+
+.btn{
+    display: inline-block;
+    font-weight: 600;
+    text-decoration: none;
+    letter-spacing: -0.05em;
+    background-color: var(--color-rose);
+    color: var(--color-light);
+    padding: 0.5em 1em;
+    border-radius: 6px;
+    box-shadow: 0 10px 20px rgba(225, 29, 72, 0.5), 0 6px 6px rgba(225, 29, 72, 0.5), 0 0 100px -10px var(--color-rose);
+
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.btn:hover{
+    transform: translateY(-3px);
+    box-shadow: 0 14px 28px rgba(225, 29, 72, 0.25), 0 10px 10px rgba(225, 29, 72, 0.22), 0 0 120px -10px var(--color-rose);
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+.container .btn{
+    margin-top: 1.5rem;
+}
