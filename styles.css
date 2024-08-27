@@ -113,13 +113,13 @@ svg{
     margin-top: 1.5rem;
 }
 
-/* XS */
-@media (min-width: 475px) {
+/* XXS */
+@media (min-width: 300px) {
     img{
         justify-content: center;
         text-align: center;
         align-items: center;
-        max-width: 450px;
+        max-width: 300px;
     }
     h1{
         font-size: 50px;
@@ -128,7 +128,10 @@ svg{
     p{
         justify-content: center;
     }
-} 
+}
+
+/* XS */
+/* @media (min-width: 475px) {}  */
 
 /* S */
 @media (min-width: 640px) {
