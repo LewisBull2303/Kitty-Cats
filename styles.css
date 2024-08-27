@@ -40,6 +40,7 @@ p{
     margin-bottom: 2rem;
     text-overflow: ellipsis;
     width: 100%;
+    width: 75%;
 }
 
 a{
@@ -127,7 +128,7 @@ svg{
     
 h1{
     margin-bottom: 1.5rem;
-    font-size: 72px;
+    font-size: 60px;
     color: var(--color-rose);
 }
 }
