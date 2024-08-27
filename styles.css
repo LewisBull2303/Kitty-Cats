@@ -114,7 +114,21 @@ svg{
 }
 
 /* XS */
-/* @media (min-width: 475px) {}  */
+@media (min-width: 475px) {
+    img{
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        max-width: 450px;
+    }
+    h1{
+        font-size: 50px;
+        justify-content: center;
+    }
+    p{
+        justify-content: center;
+    }
+} 
 
 /* S */
 @media (min-width: 640px) {
@@ -129,7 +143,6 @@ svg{
 h1{
     margin-bottom: 1.5rem;
     font-size: 60px;
-    color: var(--color-rose);
 }
 }
 
