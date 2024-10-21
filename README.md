@@ -34,8 +34,8 @@ This project helped me to better understand how to use API in javascript along s
 
 
 - CSS
--  
-
+-  I can confirm that no errors were returned when passing through the official Jigsaw CSS Validator
+-  ![image](https://github.com/user-attachments/assets/ddca8550-4aac-4e14-aeeb-8853bd4c0d09)
 
 - Accessibility
 -   
