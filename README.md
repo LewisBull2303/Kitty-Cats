@@ -29,7 +29,9 @@ This project helped me to better understand how to use API in javascript along s
 ## Validator Testing
 
 - Html
--
+- I can confirm that no errors were returned when passing through the official W3C Validator
+- ![image](https://github.com/user-attachments/assets/626a2503-5e69-46b6-ba8e-20e694dccd52)
+
 
 - CSS
 -  
