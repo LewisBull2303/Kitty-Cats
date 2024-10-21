@@ -19,11 +19,13 @@ This project helped me to better understand how to use API in javascript along s
 - This text box can fit a large amount of text which is randomised by the API, The font size has media queiries which makes the font size smaller and allos for it to fit into smaller screens
   
 ## Testing
-
- -
+ - I have tested that the website works in different browsers - Google Chrome, Edge and Safar
+ - I can confirm that this project is responsive, looks good and functions perfectly across all screen sizes using the Devtools
+ - I have confirmed that all buttons and user interactable objects work as intended
 ## Bugs
-
-- 
+- There were several bugs with Media Quieries where the picture would over load the screen or the button would not show on mobile
+- To fix these I adopted a mobile first style of media quieries where I would make it so that the small screens are default and the larger ones change the size of the images and text.
+- This proved to be increadibly helpful and I have since adopted this method of media quieries in muliple of my other projects.
 ## Validator Testing
 
 - Html
