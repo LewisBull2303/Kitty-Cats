@@ -28,12 +28,12 @@ This project helped me to better understand how to use API in javascript along s
 - This proved to be increadibly helpful and I have since adopted this method of media quieries in muliple of my other projects.
 ## Validator Testing
 
-- # Html
+- #### Html
 - I can confirm that no errors were returned when passing through the official W3C Validator
   ![image](https://github.com/user-attachments/assets/626a2503-5e69-46b6-ba8e-20e694dccd52)
 
 
-- # CSS
+- #### CSS
 -  I can confirm that no errors were returned when passing through the official Jigsaw CSS Validator
   ![image](https://github.com/user-attachments/assets/ddca8550-4aac-4e14-aeeb-8853bd4c0d09)
 
