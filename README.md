@@ -7,11 +7,31 @@ This project helped me to better understand how to use API in javascript along s
 ![image](https://github.com/user-attachments/assets/fbeb9fff-397e-4803-a1fd-63b35f9017eb)
 
 
-Features
+## Features
+
+- ###
+  
+## Testing
+
+ -
+## Bugs
+
+- 
+## Validator Testing
+
+- Html
+-
+
+- CSS
+-  
 
 
+- Accessibility
+-   
+## Deployment
+- This site was deployed to Github pages. The steps to deploy are as follows:
+-   Navigate to the setting tab of the GitHub repository that you wish to deploy
+-   From the source drop down menu, select the option that says main
+-   Once selected the pages link will generate allowing you to view your page.
 
-
-Testing
-
-Deployment
+The Live link to this repository can be found here - https://lewisbull2303.github.io/Kitty-Cats/#
