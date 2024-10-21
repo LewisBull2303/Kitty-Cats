@@ -9,7 +9,14 @@ This project helped me to better understand how to use API in javascript along s
 
 ## Features
 
-- ###
+- ### Button
+- I created a button which is what the user will press to activate the random picture and text to appear, I added animations onto this button as well as a glow to highlight the button and make it more appealing to the user.
+
+- ### Random Image
+- I made a image in the website which is where the random image will pop up, this image has media queiries which changes the width and height of the image based on the screen size which allows this to be responsive and better looking on smaller screens.
+
+- ### Random Text
+- This text box can fit a large amount of text which is randomised by the API, The font size has media queiries which makes the font size smaller and allos for it to fit into smaller screens
   
 ## Testing
 
