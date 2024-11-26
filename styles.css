@@ -6,6 +6,39 @@
     --color-slate800: #1e293b;
     --color-rose: #e11d48;
     --color-indigo: #4f46e5; 
+    --color-gold: #Ffd700;
+}
+
+#player-display{
+    font-size: 2.5rem;
+    color: gold;
+}
+
+#computer-display{
+    font-size: 2.5rem;
+    color: gold;
+}
+
+#result-display{
+    font-size: 5rem;
+    margin: 30px 0;
+}
+
+.scoreDisplay{
+    font-size: 1.5rem;
+    color: gold;
+}
+
+.green-Text, #playerScoreDisplay{
+    color: green;
+}
+
+.red-Text, #computerScoreDisplay{
+    color: var(--color-rose);
+}
+
+.yellow-Text{
+    color: yellow;
 }
 
 *{
@@ -182,11 +215,5 @@ p{
     canvas,
     svg{
         height: 500px;
-        }
 }
-
-/* XL */
-/* @media (min-width: 1280px) {} */
-
-/* XXL */
-/* @media (min-width: 1536px) {} */
+}
